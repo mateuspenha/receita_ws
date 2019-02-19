@@ -1,0 +1,18 @@
+name: receita_ws
+description: Uma biblioteca para consulta de CNPJ para desenvolvedores Dart (Console, Web e Flutter).
+version: 1.0.0
+homepage: https://receitaws.com.br/
+repository: https://github.com/mateuspenha/receita_ws
+issue_tracker: https://github.com/mateuspenha/receita_ws/issues
+author: Mateus Penha <mateuspenha@gmail.com>
+
+environment:
+  sdk: '>=2.1.0 <3.0.0'
+
+dependencies:
+  http: ^0.12.0+1
+  xml2json: ^3.0.3
+
+dev_dependencies:
+  pedantic: ^1.0.0
+  test: ^1.0.0
