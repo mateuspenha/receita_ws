@@ -1,6 +1,6 @@
 Package para consulta das informações do CNPJ (https://receitaws.com.br/).
 
-![ReceitaWS](https://github.com/mateuspenha/receita_ws/raw/{branch}/path/to/receita_ws.png)
+![ReceitaWS](https://github.com/mateuspenha/receita_ws/tree/master/example/receita_ws.png)
 
 ## Uso
 
